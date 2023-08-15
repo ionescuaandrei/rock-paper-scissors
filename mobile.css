@@ -1,9 +1,23 @@
 @media (max-width:900px) {
   h1{
-    font-size: 30px;
+    font-size: 25px;
   }
   .zombie-img img{
-    width: 300px;
+    width: 250px;
+  }
+
+  #opponent-choice{
+    width: 150px;
+    height: 150px;
+  }
+
+  #your-choice{
+    width: 150px;
+    height: 150px;
+  }
+
+  #choices{
+    margin-top: 30px;
   }
 }
 
